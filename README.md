@@ -1,6 +1,6 @@
 # Magnetic Mount for the Ring Video Doorbell
 
-I have a steel door with glass on either side and no wires run for a doorbell.  The [Ring Video Doorbell](https://amzn.to/3vzFPwm) seemed a good fit, but my general issues with technology commitment (sorry Amazon, it's you not me) kept me from wanting to run screws through my door to get this thing installed.
+I have a steel door with glass on either side and no wires run for a doorbell.  The [Ring Video Doorbell](https://amzn.to/3hYKvIk) seemed a good fit, but my general issues with technology commitment (sorry Amazon, it's you not me) kept me from wanting to run screws through my door to get this thing installed.
 
 <img src="https://github.com/aderusha/Ring_Video_Doorbell_Magnet_Mount/blob/main/images/installed.jpg?raw=true" width="400" >
 
@@ -9,7 +9,6 @@ This mount utilizes [4x 32mm disc magnets](https://amzn.to/2SxWQZj) to create a 
 ## Bill of Materials
 
 * One of the following models of the Ring Video Doorbell
-  * [Ring Video Doorbell 2020](https://amzn.to/3fUvDbh)
   * [Ring Video Doorbell 3](https://amzn.to/34pKzJc)
   * [Ring Video Doorbell 4](https://amzn.to/3hYKvIk)
 * 4x [32mm x 5mm disc magnets](https://amzn.to/2SxWQZj)
