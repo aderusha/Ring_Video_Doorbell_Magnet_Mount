@@ -25,10 +25,11 @@ I printed this in [PETG](https://amzn.to/3uwbL3z) as a tough and weather-proof m
 ## Assembly
 
 1. Print the mount per the instructions above.
-2. Test fit the magnets to ensure everything is working as expected.  These magents are STRONG, be extremely careful when working with them.
-3. Apply CA glue to the printed cavity for one magnet
-4. (Optional) apply CA accelerant to the back of one magnet
-5. Place a single magnet into the cavity and let the glue bond (almost instant when using accelerant)
-6. Repeat 3-5, now being very careful to keep a tight grip on both the mount and magnet as you bring additional magnets onto the mount.  They want to jump out of your hands and onto each other, smashing anything that gets in the way (like your fingers).  It's important to ensure that each magnet is fully bonded before proceeding to the next, or you can pull the magnet out of the cavity when the next magnet is brought close.
+2. Apply a small bead of CA glue around each insert and press-fit into the mount.
+3. Test fit the magnets to ensure everything is working as expected.  These magents are STRONG, be extremely careful when working with them.
+4. Apply CA glue to the printed cavity for one magnet
+5. (Optional) apply CA accelerant to the back of one magnet
+6. Place a single magnet into the cavity and let the glue bond (almost instant when using accelerant)
+7. Repeat 4-6, now being very careful to keep a tight grip on both the mount and magnet as you bring additional magnets onto the mount.  They want to jump out of your hands and onto each other, smashing anything that gets in the way (like your fingers).  It's important to ensure that each magnet is fully bonded before proceeding to the next, or you can pull the magnet out of the cavity when the next magnet is brought close.
 
 <img src="https://github.com/aderusha/Ring_Video_Doorbell_Magnet_Mount/blob/main/images/ready_to_assemble.jpg?raw=true" width="800" >
